@@ -33,7 +33,6 @@ Meta Ad Performance Dashboard is a Power BI project that analyzes paid advertisi
 - Interactions: dynamic measure selector, platform and campaign filters, and drillthrough to campaign-level details.
 - <a href="https://github.com/Roopa-Insights/Meta-Ad-Performance-Dashboard/blob/main/Facebook%20Dashboard%20Image.png">Facebook Dashboard Image</a>
 - <a href="https://github.com/Roopa-Insights/Meta-Ad-Performance-Dashboard/blob/main/Instagram%20Dashboard%20Image.png">Instagram Dashboard Image</a>
-- <a href="https://github.com/Roopa-Insights/Meta-Ad-Performance-Dashboard/blob/main/Meta%20Ad%20performance%20dashboard.pbix"> Dashboard</a>
 
 ## Files included
 - Project-Files — dataset folder (CSV or source files used to build the dashboard).
